@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/05/29/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<span id="more"></span>
-
-<p>关于我们 · 没用的研究所<br>没用的 · GPT是由网络个人爱好者运营管理，我们以永久免费、绿色无广告、长期更新为定位，主要致力于为广大网友提供免费、绿色的ChatGPT镜像网站，所有的ChatGPT国内镜像网站均从网络手动搜集整理及热心网友推荐或自荐，感谢您的使用与支持！</p>
-<p>ChatGPT镜像网站来源<br>所有ChatGPT网站从网络手动搜集整理、热心网友推荐或自荐。</p>
-<p>网站优势<br>无需注册 免费使用 长期维护 手动更新</p>
-<p>永久域名<br><a href="http://www.mydyjs.com/">www.mydyjs.com</a></p>
-<p>联系我们<br>邮箱：<a href="mailto:&#x6d;&#121;&#100;&#121;&#106;&#x73;&#x40;&#49;&#54;&#51;&#46;&#x63;&#111;&#x6d;">&#x6d;&#121;&#100;&#121;&#106;&#x73;&#x40;&#49;&#54;&#51;&#46;&#x63;&#111;&#x6d;</a></p>
+    <title>更新文档</title>
+    <url>/2023/05/29/%E6%9B%B4%E6%96%B0%E6%96%87%E6%A1%A3.html</url>
+    <content><![CDATA[<p><img src="https://www.mydyjs.com/img/share-top.png" alt="img"></p>
+<p>更新文档</p>
 ]]></content>
   </entry>
   <entry>
     <title>关于我们</title>
-    <url>/2023/05/29/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/</url>
+    <url>/2023/05/29/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.html</url>
     <content><![CDATA[<p><font color= "#dd000"> <strong>七仔 · chatGPT</strong></font> 是由网络个人爱好者运营管理，我们以永久免费、绿色无广告、长期更新为定位，主要致力于为广大网友提供免费、绿色的ChatGPT镜像网站，所有的ChatGPT国内镜像网站均从网络手动搜集整理及热心网友推荐或自荐，感谢您的使用与支持！</p>
 <h5 id="ChatGPT镜像网站来源"><a href="#ChatGPT镜像网站来源" class="headerlink" title="ChatGPT镜像网站来源"></a>ChatGPT镜像网站来源</h5><p>所有ChatGPT网站从网络手动搜集整理、热心网友推荐或自荐。</p>
 <h5 id="网站优势"><a href="#网站优势" class="headerlink" title="网站优势"></a>网站优势</h5><p>无需注册 免费使用 长期维护 手动更新</p>
