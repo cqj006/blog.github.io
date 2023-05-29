@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-29T07:14:23.092Z</updated>
+  <updated>2023-05-29T07:31:13.407Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>更新文档</title>
-    <link href="http://example.com/2023/05/29/%E6%9B%B4%E6%96%B0%E6%96%87%E6%A1%A3.html"/>
-    <id>http://example.com/2023/05/29/%E6%9B%B4%E6%96%B0%E6%96%87%E6%A1%A3.html</id>
-    <published>2023-05-29T06:59:43.000Z</published>
-    <updated>2023-05-29T07:14:23.092Z</updated>
+    <link href="http://example.com/posts/9a9940c6.html"/>
+    <id>http://example.com/posts/9a9940c6.html</id>
+    <published>2023-05-29T07:31:03.000Z</published>
+    <updated>2023-05-29T07:31:13.407Z</updated>
     
     
       
@@ -39,17 +39,17 @@
   
   <entry>
     <title>关于我们</title>
-    <link href="http://example.com/2023/05/29/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.html"/>
-    <id>http://example.com/2023/05/29/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.html</id>
-    <published>2023-05-29T05:55:26.000Z</published>
-    <updated>2023-05-29T07:10:52.634Z</updated>
+    <link href="http://example.com/posts/29cf596.html"/>
+    <id>http://example.com/posts/29cf596.html</id>
+    <published>2023-05-29T07:29:45.000Z</published>
+    <updated>2023-05-29T07:30:28.095Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;&lt;font color= &quot;#dd000&quot;&gt; &lt;strong&gt;七仔 · chatGPT&lt;/strong&gt;&lt;/font&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;code&gt;&amp;lt;font color= &amp;quot;#dd000&amp;quot;&amp;gt;&lt;/code&gt; &lt;strong&gt;七仔 · chatGPT&lt;/strong&gt; &lt;code&gt;&amp;lt;/font&amp;gt;&lt;/code&gt;</summary>
         
       
     
